@@ -31,3 +31,7 @@ There will be no fees for participating, but since seats are limited to 30, cand
 ## How to apply
 
 coming soon.
+
+## Contact details
+
+For any questions regarding this summer school, please contact (Shravan Vasishth)[http://www.ling.uni-potsdam.de/~vasishth].
