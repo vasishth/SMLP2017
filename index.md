@@ -10,7 +10,7 @@ We are happy to announce The First Summer School on Statistical Methods for Ling
 ### Invited speakers
 
 - [Richard McElreath](http://xcelab.net/rm/)
-- [Florian Jaeger](http://www2.bcs.rochester.edu/sites/fjaeger/)
+- to be announced
 
 ## Curriculum
 
