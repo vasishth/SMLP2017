@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to the first summer school on statistical methods for linguistics and psychology, 2017
 
-You can use the [editor on GitHub](https://github.com/vasishth/smlp2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are happy to announce The First Summer School on Statistical Methods for Linguistics and Psychology, to be held in Potsdam, Germany from August 28th to September 1st 2017. This first edition of the summer school will provide an introductory overview of frequentist and Bayesian statistics for linguists and psychologists. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
 
-### Markdown
+## Timeframe
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
-```markdown
-Syntax highlighted code block
+### Invited speakers
 
-# Header 1
-## Header 2
-### Header 3
+- (Richard McElreath)[http://xcelab.net/rm/]
+- (Florian Jaeger)[http://www2.bcs.rochester.edu/sites/fjaeger/]
 
-- Bulleted
-- List
+## Curriculum
 
-1. Numbered
-2. List
+The summer school is intended for participants who have some some data analysis experience (such as t-tests and simple linear models), but want to work with state-of-the-art frequentist and Bayesian methods.
 
-**Bold** and _Italic_ and `Code` text
+We will mainly focus on modeling repeated measures data. We will discuss hierarchical modeling in detail, using the generalized linear mixed modeling framework as a starting point. We will use (R)[https://cran.r-project.org/] and (Stan)[mc-stan.org]. Participants will be assumed to have a working knowledge of R; Stan will be taught from scratch. Everyone is expected to bring their own laptop computer.
 
-[Link](url) and ![Image](src)
-```
+If there is sufficient interest among the accepted applicants, we may also offer additional lectures on advanced statistical methods such as bootstrapping, modeling time series data, multivariate analysis, and survival analysis. Future fall school editions will in any case include these topics.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The summer school will consist of lectures followed by hands-on exercises. Two evenings (Tuesday and Thursday) will have invited lectures; these lectures will be followed by an evening of merriment.
 
-### Jekyll Themes
+A related (one-day workshop will be held in Tuebingen on 17 Sept 2017)[http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html].
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasishth/smlp2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Fees
 
-### Support or Contact
+There will be no fees for participating, but since seats are limited to 30, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How to apply
+
+coming soon.
