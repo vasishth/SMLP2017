@@ -7,10 +7,10 @@ We are happy to announce The First Summer School on Statistical Methods for Ling
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
-### Invited speakers
+### Invited speakers for evening lectures
 
-- [Richard McElreath](http://xcelab.net/rm/)
-- to be announced
+- [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
+- [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
 ## Curriculum
 
@@ -25,13 +25,43 @@ The summer school will consist of lectures followed by hands-on exercises. Two e
 
 A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html).
 
+## Summer School Instructors
+
+[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/), 
+[Lena Jäger](http://www.ling.uni-potsdam.de/~jaeger/), 
+[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
+[Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/)
+
+## Background Reading
+
+- Shravan Vasishth and Bruno Nicenboim.
+**Statistical methods for linguistic research: Foundational
+Ideas - Part I**.
+*Language and Linguistics Compass*, 10(8):349-369, 2016.
+[doi](http://dx.doi.org/10.1111/lnc3.12201),
+[code and data](https://github.com/vasishth/VasishthNicenboimPart1)
+
+- Bruno Nicenboim and Shravan Vasishth.
+**Statistical methods for linguistic research: Foundational
+Ideas - Part II**.
+*Language and Linguistics Compass*, 10:591-613, 2016.
+[doi](http://dx.doi.org/10.1111/lnc3.12207),
+[code and data](https://github.com/vasishth/NicenboimVasishthPart2)
+
+- Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
+**Bayesian linear mixed models using Stan: A tutorial for
+psychologists, linguists, and cognitive scientists**.
+*Quantitative Methods for Psychology*, 12(3):175-200, 2016.
+[pdf](http://www.tqmp.org/RegularArticles/vol12-3/p175/p175.pdf),
+[code and data](http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)
+
 ## Fees
 
 There will be no fees for participating, but since seats are limited to 30, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
 
 ## How to apply
 
-coming soon.
+The application form can be filled out [here](http://www.uni-potsdam.de/summercampus/e/smlp.html).
 
 ## Contact details
 
