@@ -7,11 +7,6 @@ We are happy to announce The First Summer School on Statistical Methods for Ling
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
-### Invited speakers for evening lectures
-
-- [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
-- [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
-
 ## Curriculum
 
 The summer school is intended for participants who have some data analysis experience (such as t-tests and simple linear models), but want to work with state-of-the-art frequentist and Bayesian methods.
@@ -24,6 +19,13 @@ Future summer school editions will in any case include these topics.
 The summer school will consist of lectures followed by hands-on exercises. Two evenings (Tuesday and Thursday) will have invited lectures; these lectures will be followed by an evening of merriment.
 
 A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html).
+
+
+### Invited speakers for evening lectures
+
+- [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
+- [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
+
 
 ## Summer School Instructors
 
@@ -61,7 +63,7 @@ There will be no fees for participating, but since seats are limited to 30, cand
 
 ## How to apply
 
-The application form can be filled out [here](http://www.uni-potsdam.de/summercampus/e/smlp.html).
+[Click here](http://www.uni-potsdam.de/summercampus/e/smlp.html).
 
 ## Contact details
 
