@@ -68,3 +68,7 @@ There will be no fees for participating, but since seats are limited to 30, cand
 ## Contact details
 
 For any questions regarding this summer school, please contact [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth).
+
+## Funding
+
+This summer school is funded by the DFG and is part of the SFB project "Variability in Language and Its Limits".
