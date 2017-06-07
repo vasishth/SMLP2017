@@ -30,9 +30,10 @@ A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://ww
 ## Summer School Instructors
 
 [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/), 
-[Lena Jäger](http://www.ling.uni-potsdam.de/~jaeger/), 
+[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/)
+[Titus von der Malsburg](https://tmalsburg.github.io/)
 
 ## Background Reading
 
