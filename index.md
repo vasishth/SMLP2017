@@ -13,7 +13,7 @@ Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms
 
 ## Traveling to the University of Potsdam 
 
-Please use [bvg.de](bvg.de) for planning your travel (by train or bus).
+Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Curriculum
 
