@@ -7,6 +7,14 @@ We are happy to announce The First Summer School on Statistical Methods for Ling
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
+## Location
+
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for map.
+
+## Traveling to the University of Potsdam 
+
+Please use [bvg.de](bvg.de) for planning your travel (by train or bus).
+
 ## Curriculum
 
 The summer school is intended for participants who have some data analysis experience (such as t-tests and simple linear models), but want to work with state-of-the-art frequentist and Bayesian methods.
@@ -62,9 +70,6 @@ psychologists, linguists, and cognitive scientists**.
 
 There will be no fees for participating, but since seats are limited to 30, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
 
-## How to apply
-
-[Click here](http://www.uni-potsdam.de/summercampus/e/smlp.html).
 
 ## Contact details
 
@@ -72,4 +77,4 @@ For any questions regarding this summer school, please contact [Shravan Vasishth
 
 ## Funding
 
-This summer school is funded by the DFG and is part of the SFB project "Variability in Language and Its Limits".
+This summer school is funded by the [DFG](dfg.de) and is part of the [SFB "Variability in Language and Its Limits"](https://www.uni-potsdam.de/sfb1287/index.html).
