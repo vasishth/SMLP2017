@@ -46,32 +46,22 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 
 ## Background Reading
 
-- Richard McElreath. [Statistical Rethinking](https://www.amazon.de/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445)
-- Shravan Vasishth and Bruno Nicenboim.
-**Statistical methods for linguistic research: Foundational
-Ideas - Part I**.
-*Language and Linguistics Compass*, 10(8):349-369, 2016.
-[doi](http://dx.doi.org/10.1111/lnc3.12201),
-[code and data](https://github.com/vasishth/VasishthNicenboimPart1)
+### Books
 
-- Bruno Nicenboim and Shravan Vasishth.
-**Statistical methods for linguistic research: Foundational
-Ideas - Part II**.
-*Language and Linguistics Compass*, 10:591-613, 2016.
-[doi](http://dx.doi.org/10.1111/lnc3.12207),
-[code and data](https://github.com/vasishth/NicenboimVasishthPart2)
-
-- Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
-**Bayesian linear mixed models using Stan: A tutorial for
-psychologists, linguists, and cognitive scientists**.
+- Richard McElreath. [Statistical Rethinking](https://www.amazon.de/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445). CRC Press, 2015.
+- John Kruschke. [Doing Bayesian Data Analysis](https://www.amazon.de/Doing-Bayesian-Data-Analysis-Kruschke/dp/0124058884/ref=dp_ob_title_bk), Academic Press, 2015.
+- Shravan Vasishth and Bruno Nicenboim. Statistical Methods for Linguistic Research: Foundational Ideas – Part I. Language and Linguistics Compass, 10(8):349-369, 2016. [code](https://github.com/vasishth/VasishthNicenboimPart1)
+- Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
+-Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
+Bayesian linear mixed models using Stan: A tutorial for
+psychologists, linguists, and cognitive scientists.
 *Quantitative Methods for Psychology*, 12(3):175-200, 2016.
 [pdf](http://www.tqmp.org/RegularArticles/vol12-3/p175/p175.pdf),
 [code and data](http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)
 
 ## Fees
 
-There will be no fees for participating, but since seats are limited to 30, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
-
+There will be no fees for participating, but since seats are limited, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
 
 ## Contact details
 
