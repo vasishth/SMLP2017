@@ -13,6 +13,12 @@ The summer school will consist of lectures followed by hands-on exercises. Two e
 
 A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html).
 
+## Computing equipment and preparation for summer school
+
+We assume that everyone has a basic knowledge of R.
+Participants are expected to bring their own laptops. Wifi access will be available.
+* Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school *.
+
 ## Dates and schedule
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
