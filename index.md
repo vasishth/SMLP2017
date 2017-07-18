@@ -3,9 +3,11 @@
 
 We are happy to announce The First Summer School on Statistical Methods for Linguistics and Psychology, to be held in Potsdam, Germany from August 28th to September 1st 2017. This first edition of the summer school will provide an introductory overview of frequentist and Bayesian statistics for linguists and psychologists. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
 
-## Timeframe
+## Timeframe and schedule
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
+
+The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
 
 ## Location
 
