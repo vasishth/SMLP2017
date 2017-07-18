@@ -1,4 +1,4 @@
-## Welcome to The First Summer School on Statistical Methods for Linguistics and Psychology, 2017
+## Welcome to The First Summer School on Statistical Methods for Linguistics and Psychology, 2017, 28 August - 1 September 2017
 
 
 We are happy to announce The First Summer School on Statistical Methods for Linguistics and Psychology, to be held in Potsdam, Germany from August 28th to September 1st 2017. This first edition of the summer school will provide an introductory overview of frequentist and Bayesian statistics for linguists and psychologists. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
@@ -9,14 +9,11 @@ The summer school is intended for participants who have some data analysis exper
 
 We will mainly focus on modeling repeated measures data. We will discuss hierarchical modeling in detail, using the generalized linear mixed modeling framework as a starting point. We will use [R](https://cran.r-project.org/) and [Stan](mc-stan.org). Participants will be assumed to have a working knowledge of R; Stan will be taught from scratch. Everyone is expected to bring their own laptop computer.
 
-If there is sufficient interest among the accepted applicants, we may also offer additional lectures on advanced statistical methods such as bootstrapping, modeling time series data, multivariate analysis, and survival analysis. 
-Future summer school editions will in any case include these topics.
-
 The summer school will consist of lectures followed by hands-on exercises. Two evenings (Tuesday and Thursday) will have invited lectures; these lectures will be followed by an evening of merriment.
 
 A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html).
 
-## Timeframe and schedule
+## Dates and schedule
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
@@ -55,7 +52,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 
 - Shravan Vasishth and Bruno Nicenboim. Statistical Methods for Linguistic Research: Foundational Ideas – Part I. Language and Linguistics Compass, 10(8):349-369, 2016. [code](https://github.com/vasishth/VasishthNicenboimPart1)
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
--Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
+- Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
 Bayesian linear mixed models using Stan: A tutorial for
 psychologists, linguists, and cognitive scientists.
 *Quantitative Methods for Psychology*, 12(3):175-200, 2016.
