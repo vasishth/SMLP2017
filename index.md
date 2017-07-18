@@ -3,20 +3,6 @@
 
 We are happy to announce The First Summer School on Statistical Methods for Linguistics and Psychology, to be held in Potsdam, Germany from August 28th to September 1st 2017. This first edition of the summer school will provide an introductory overview of frequentist and Bayesian statistics for linguists and psychologists. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
 
-## Timeframe and schedule
-
-28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
-
-The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
-
-## Location
-
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for map.
-
-## Traveling to the University of Potsdam 
-
-Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
-
 ## Curriculum
 
 The summer school is intended for participants who have some data analysis experience (such as t-tests and simple linear models), but want to work with state-of-the-art frequentist and Bayesian methods.
@@ -30,12 +16,25 @@ The summer school will consist of lectures followed by hands-on exercises. Two e
 
 A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://www.ling.uni-potsdam.de/~vasishth/courses/IntroStanFGME2017.html).
 
+## Timeframe and schedule
+
+28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
+
+The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
 
 ### Invited speakers for evening lectures
 
 - [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
 - [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
+
+## Location
+
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for map.
+
+## Traveling to the University of Potsdam 
+
+Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Summer School Instructors
 
@@ -47,6 +46,7 @@ A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://ww
 
 ## Background Reading
 
+- Richard McElreath. [Statistical Rethinking](https://www.amazon.de/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445)
 - Shravan Vasishth and Bruno Nicenboim.
 **Statistical methods for linguistic research: Foundational
 Ideas - Part I**.
