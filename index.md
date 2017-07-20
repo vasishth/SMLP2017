@@ -17,13 +17,22 @@ A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://ww
 
 We assume that everyone has a basic knowledge of R.
 Participants are expected to bring their own laptops. Wifi access will be available.
-* Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school *.
 
-## Dates and schedule
+**Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan and rstanarm installed.**
+
+## Dates, schedule, and slides
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
 
 The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
+
+### Slides (coming soon)
+
+- Lecture 1 (sessions 1-2), exercises; taught by Shravan
+- Lecture 2 (sessions 3-4), exercises; taught by Shravan
+- Lecture 3 (session 5), exercises; taught by Audrey 
+- Lecture 4 (sessions 6-8), exercises; taught by Audrey and Shravan
+- Lecture 5 (session 9, 10B), exercises; taught by Shravan 
 
 ### Invited speakers for evening lectures
 
@@ -33,7 +42,7 @@ The schedule in its current form can be downloaded [here](https://github.com/vas
 
 ## Location
 
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for map.
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](map_neues_palais_campus) for a campus map.
 
 ## Traveling to the University of Potsdam 
 
@@ -46,6 +55,8 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
 [Titus von der Malsburg](https://tmalsburg.github.io/)
+
+Assistants for class exercises: Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Stone (all sessions), Maetzig (all sessions)
 
 ## Background Reading
 
