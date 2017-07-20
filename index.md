@@ -58,7 +58,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
 [Titus von der Malsburg](https://tmalsburg.github.io/)
 
-Assistants for class exercises: Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Stone (all sessions), Maetzig (all sessions)
+Assistants for class exercises: Deveaugh (all sessions), Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Stone (all sessions), Maetzig (all sessions)
 
 ## Background Reading
 
