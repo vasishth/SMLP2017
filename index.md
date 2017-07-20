@@ -42,7 +42,7 @@ The schedule in its current form can be downloaded [here](https://github.com/vas
 
 ## Location
 
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://github.com/vasishth/SMLP2017/blob/master/map_neues_palais_campus.pdf) for a campus map.
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](SMLP2017/map_neues_palais_campus.pdf) for a campus map.
 
 ## Traveling to the University of Potsdam 
 
