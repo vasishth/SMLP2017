@@ -46,6 +46,8 @@ Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms
 
 ## Traveling to the University of Potsdam 
 
+If you are staying in Berlin.
+we suggest taking a train to the station Bahnhof Park Sanssouci, and then walking to the campus (5-10 minutes). There are direct trains from Berlin zoo station (Berlin Zoologischer Garten) and Berlin's main station, Berlin Hauptbahnhof; the journey takes 27-35 minutes. If you are staying in Potsdam, buses from the Potsdam train station are an easy option.
 Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Summer School Instructors
