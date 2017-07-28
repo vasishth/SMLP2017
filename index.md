@@ -18,7 +18,7 @@ A related [one-day workshop will be held in Tuebingen on 17 Sept 2017](http://ww
 We assume that everyone has a basic knowledge of R.
 Participants are expected to bring their own laptops. Wifi access will be available.
 
-**Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan and rstanarm installed.**
+**Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan and rstanarm installed. To install rstan, follow the instructions [here](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).**
 
 ## Dates, schedule, and slides
 
@@ -38,8 +38,7 @@ Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms
 
 ## Traveling to the University of Potsdam 
 
-If you are staying in Berlin.
-we suggest taking a train to the station Bahnhof Park Sanssouci, and then walking to the campus (5-10 minutes). There are direct trains from Berlin zoo station (Berlin Zoologischer Garten) and Berlin's main station, Berlin Hauptbahnhof; the journey takes 27-35 minutes. If you are staying in Potsdam, buses from the Potsdam train station are an easy option.
+If you are staying in Berlin, we suggest taking a train to the station Bahnhof Park Sanssouci, and then walking to the campus (5-10 minutes). There are direct trains from Berlin zoo station (Berlin Zoologischer Garten) and Berlin's main station, Berlin Hauptbahnhof; the journey takes 27-35 minutes. If you are staying in Potsdam, buses from the Potsdam train station are an easy option.
 Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Summer School Instructors
