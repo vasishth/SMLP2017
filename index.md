@@ -26,14 +26,6 @@ Participants are expected to bring their own laptops. Wifi access will be availa
 
 The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
 
-### Slides (coming soon)
-
-- Lecture 1 (sessions 1-2), exercises; taught by Shravan
-- Lecture 2 (sessions 3-4), exercises; taught by Shravan
-- Lecture 3 (session 5), exercises; taught by Audrey 
-- Lecture 4 (sessions 6-8), exercises; taught by Audrey and Shravan
-- Lecture 5 (session 9, 10B), exercises; taught by Shravan 
-
 ### Invited speakers for evening lectures
 
 - [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
