@@ -28,6 +28,8 @@ The schedule in its current form can be downloaded [here](https://github.com/vas
 
 ### Invited speakers for evening lectures
 
+The evening lectures will be recorded and posted on youtube.
+
 - [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
 - [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
@@ -47,9 +49,10 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+[Lena JJ&auml;ger](http://www.ling.uni-potsdam.de/~jaeger/),
 [Titus von der Malsburg](https://tmalsburg.github.io/)
 
-Assistants for class exercises: Deveaugh (all sessions), Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Stone (all sessions), Maetzig (all sessions)
+Assistants for class exercises: Joseph Deveaugh (all sessions), Daniela Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Kate Stone (all sessions), Paul Maetzig (all sessions), Dario Paape (all sessions except Thursday)
 
 ## Background Reading
 
