@@ -69,6 +69,13 @@ psychologists, linguists, and cognitive scientists.
 [pdf](http://www.tqmp.org/RegularArticles/vol12-3/p175/p175.pdf),
 [code and data](http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)
 
+### Lecture notes
+
+These lecture notes serve as reference materials for the summer school. You are not expected to read them during the summer school, but they may help for review later on.
+
+- [Introductory statistics notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf)
+- [Linear modeling lecture notes](https://github.com/vasishth/LM/blob/master/LinearModelingLectureNotes2016.pdf), and [Linear modeling quick review sheet](https://github.com/vasishth/LM/blob/master/LMSummarySheet.pdf)
+
 ## Fees
 
 There will be no fees for participating, but since seats are limited, candidates must apply to be accepted. The deadline for applications is 31 May 2017, and decisions will be announced on 5 June 2017. Participants will pay for their own accommodation, we have reserved places in dormitories and hotels. 
