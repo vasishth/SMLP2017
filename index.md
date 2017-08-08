@@ -49,7 +49,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
-[Lena JJ&auml;ger](http://www.ling.uni-potsdam.de/~jaeger/),
+[Lena J&auml;ger](http://www.ling.uni-potsdam.de/~jaeger/),
 [Titus von der Malsburg](https://tmalsburg.github.io/)
 
 Assistants for class exercises: [Joseph De Veaugh-Geiss](https://www.ling.uni-potsdam.de/~deveaugh-geiss/) (all sessions), 
