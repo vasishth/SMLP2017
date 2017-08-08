@@ -52,7 +52,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Lena JJ&auml;ger](http://www.ling.uni-potsdam.de/~jaeger/),
 [Titus von der Malsburg](https://tmalsburg.github.io/)
 
-Assistants for class exercises: Joseph Deveaugh (all sessions), Daniela Mertzen (Bayes), Laurinavichyute (all sessions except Friday), Kate Stone (all sessions), Paul Maetzig (all sessions), Dario Paape (all sessions except Thursday)
+Assistants for class exercises: Joseph Deveaugh (all sessions), Daniela Mertzen (Bayes), Anna Laurinavichyute (all sessions except Friday), Kate Stone (all sessions), Paul Maetzig (all sessions), Dario Paape (all sessions except Thursday)
 
 ## Background Reading
 
