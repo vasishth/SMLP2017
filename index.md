@@ -45,6 +45,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 
 ## Summer school instructors and assistants
 
+Instructors:
 [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/), 
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
