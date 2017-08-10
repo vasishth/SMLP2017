@@ -82,8 +82,16 @@ psychologists, linguists, and cognitive scientists.
 
 These lecture notes serve as reference materials for the summer school. You are not expected to read them during the summer school, but they may help for review later on.
 
-- [Introductory statistics notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf); these cover the material from the first two days
+**Notes for Monday and Tuesday**
+
+- [Introductory statistics notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf).
 - [Linear modeling lecture notes](https://github.com/vasishth/LM/blob/master/LinearModelingLectureNotes2016.pdf), and [Linear modeling quick review sheet](https://github.com/vasishth/LM/blob/master/LMSummarySheet.pdf); these cover frequentist linear models and linear mixed models more formally.
+
+**Notes for Introduction to Bayesian data analysis, Wednesday morning**
+
+- Note that only chapters 1-7 are relevant for the summer school. [Bayes lecture notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/AdvancedDataAnalysis/bdalecturenotes.pdf)
+
+ 
 
 ## Fees
 
