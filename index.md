@@ -36,7 +36,7 @@ The evening lectures will be recorded and posted on youtube.
 
 ## Location
 
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](SMLP2017/map_neues_palais_campus.pdf) for a campus map.
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for a campus map.
 
 ## Traveling to the University of Potsdam 
 
