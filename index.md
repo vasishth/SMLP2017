@@ -34,9 +34,11 @@ The evening lectures will be recorded and posted on youtube.
 - [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
 
-## Location
+## Location and registration
 
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. Please come to room 114 on Monday at 9AM. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for a campus map.
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. 
+
+Registration will begin at 8:15AM in room 203 (Haus 9), and the introductory lecture will begin at 9AM in room 114. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for a campus map.
 
 ## Traveling to the University of Potsdam 
 
