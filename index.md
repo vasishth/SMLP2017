@@ -20,9 +20,17 @@ Participants are expected to bring their own laptops. Wifi access will be availa
 
 **Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan and rstanarm installed. To install rstan, follow the instructions [here](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).**
 
-## Dates, schedule, and slides
+## Dates, location, schedule, and slides+code+data
 
 28 August - 1 September 2017 9AM-5PM, plus two invited lectures on the evenings of 29th August and 31st August 2017.
+
+### Location and registration
+
+Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. 
+
+Registration will begin at 8:15AM in room 203 (Haus 9), and the introductory lecture will begin at 9AM in room 114. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for a campus map.
+
+### Schedule
 
 The schedule in its current form can be downloaded [here](https://github.com/vasishth/SMLP2017/blob/master/smlp2017schedule.pdf).
 
@@ -33,12 +41,9 @@ The evening lectures will be recorded and posted on youtube.
 - [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
 - [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
+### Slides+code+data
 
-## Location and registration
-
-Neues Palais campus of the University of Potsdam, Haus 9, we will be using rooms 203, 205, 212, 114. 
-
-Registration will begin at 8:15AM in room 203 (Haus 9), and the introductory lecture will begin at 9AM in room 114. See [here](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=1) for a campus map.
+These will appear here on Sunday, 27 August 2017.
 
 ## Traveling to the University of Potsdam 
 
