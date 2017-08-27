@@ -41,7 +41,7 @@ The evening lectures will be recorded and posted on youtube.
 - [Richard McElreath](http://xcelab.net/rm/): [The Natural Selection of Bad Science](http://rsos.royalsocietypublishing.org/content/3/9/160384), 29th August, 2017  
 - [Mark Andrews](http://www.mjandrews.net/): The Art and Science of p-value Hacking, 31st August, 2017
 
-### Slides+code+data
+### Slides, code, data
 
 These will appear here on Sunday, 27 August 2017.
 
