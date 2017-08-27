@@ -47,7 +47,7 @@ These will appear here on Sunday, 27 August 2017.
 
 - Monday: [Slides, data, code]
 - Tuesday: [Slides, data, code]
-- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](Advanced_LMM_Lectures_and_Exercises.pdf), data and code to come soon
+- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](https://github.com/vasishth/SMLP2017/blob/master/AdvancedLMM/Advanced_LMM_Lectures_and_Exercises.pdf), data and code to come soon
 - Bayesian stream: [Lecture notes, data, code]
 
 ## Traveling to the University of Potsdam 
