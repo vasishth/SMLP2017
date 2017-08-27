@@ -45,6 +45,11 @@ The evening lectures will be recorded and posted on youtube.
 
 These will appear here on Sunday, 27 August 2017.
 
+- Monday: [Slides, data, code]
+- Tuesday: [Slides, data, code]
+- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](https://github.com/vasishth/SMLP2017/blob/master/AdvancedLMM/Adv_LMM_Lectures_Overview.html), data and code to come soon
+- Bayesian stream: [Lecture notes, data, code]
+
 ## Traveling to the University of Potsdam 
 
 If you are staying in Berlin, we suggest taking a train to the station Bahnhof Park Sanssouci, and then walking to the campus (5-10 minutes). There are direct trains from Berlin zoo station (Berlin Zoologischer Garten) and Berlin's main station, Berlin Hauptbahnhof; the journey takes 27-35 minutes. If you are staying in Potsdam, buses from the Potsdam train station are an easy option.
