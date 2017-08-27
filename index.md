@@ -43,12 +43,13 @@ The evening lectures will be recorded and posted on youtube.
 
 ### Slides, code, data
 
-These will appear here on Sunday, 27 August 2017.
+Please download the zipped archives etc. provided here to an appropriate directory on your machine (e.g., smlp2017).
 
-- Monday: [Slides, data, code]
-- Tuesday: [Slides, data, code]
-- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](https://github.com/vasishth/SMLP2017/blob/master/AdvancedLMM/Advanced_LMM_Lectures_and_Exercises.pdf), data and code to come soon
-- Bayesian stream: [Lecture notes, data, code]
+- Monday: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/01.zip)
+- Tuesday: [morning session](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/02a.zip), [afternoon session](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/02b.zip) 
+- Wednesday morning: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/03.zip)
+- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](), data and code to come soon
+- Bayesian stream: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/04Bayes.zip)
 
 ## Traveling to the University of Potsdam 
 
