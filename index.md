@@ -71,7 +71,8 @@ Assistants for class exercises: [Joseph De Veaugh-Geiss](https://www.ling.uni-po
 [Anna Laurinavichyute](https://www.hse.ru/en/staff/annlaurin) (all sessions except Friday), 
 [Kate Stone](http://www.ling.uni-potsdam.de/~stone/) (all sessions), 
 [Paul M&auml;tzig](http://www.ling.uni-potsdam.de/~maetzig/) (all sessions), 
-[Dario Paape](http://www.ling.uni-potsdam.de/~paape/) (all sessions except Thursday)
+[Dario Paape](http://www.ling.uni-potsdam.de/~paape/) (all sessions except Thursday),
+Serine Avetisyan (all sessions)
 
 ## Background Reading
 
