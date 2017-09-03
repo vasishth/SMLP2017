@@ -43,12 +43,12 @@ The evening lectures will be recorded and posted on youtube.
 
 ### Slides, code, data
 
-Please download the zipped archives etc. provided here to an appropriate directory on your machine (e.g., smlp2017).
+Please download the zipped archives etc. provided here to an appropriate directory on your machine (e.g., smlp2017). **Corrected versions of the code for the frequentist and Bayesian stream were uploaded 3 Sept 2017**.
 
 - Monday: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/01.zip)
 - Tuesday: [morning session](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/02a.zip), [afternoon session](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/02b.zip) 
 - Wednesday morning: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/03.zip)
-- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](https://github.com/vasishth/SMLP2017/blob/master/AdvancedLMM/Adv_LMM_Lectures_Overview.pdf). **Please download the syllabus to have access to the links in the syllabus**. Data and code for Reinhold lectures: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/Kliegl_Adv_LMM_UNIP2017.zip). Data and code for GLMM lecture on Friday: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/GLMM.zip). 
+- Advanced Linear Mixed Models (frequentist stream): [Detailed syllabus](https://github.com/vasishth/SMLP2017/blob/master/AdvancedLMM/Adv_LMM_Lectures_Overview.pdf). **Please download the syllabus to have access to the links in the syllabus**. Data and code for Reinhold lectures: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/Kliegl_Adv_LMM_SMLP2017_final.zip). Data and code for GLMM lecture on Friday: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/GLMM.zip). 
 - Bayesian stream: [click here](http://www.ling.uni-potsdam.de/~vasishth/smlp2017materials/04Bayes.zip)
 
 ## Traveling to the University of Potsdam 
